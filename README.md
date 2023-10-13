@@ -1,6 +1,6 @@
 ### ❤️‍🔥 Emoji Sort Order
 
-This small repo lets you find the correct sort order of emojis. This sort order can important in certain scenarios such as when you're using an emoji as the first character of a file or a note (for example in Obsidian) so that it appears as if it's the icon of the file.
+This small repo lets you find the correct sort order of emojis. This sort order can be important in certain scenarios such as when you're using an emoji as the first character of a file or a note (for example in Obsidian) so that it appears as if it's the icon of the file.
 
 Lists are also available in Excel, PDF and TXT formats in repo files.
 
